@@ -183,13 +183,12 @@ p {
   margin: 40px;
   color: blueviolet;
   background-image: linear-gradient(45deg, rgba(185, 197, 202, 0.533), rgba(188, 227, 156, 0.067));
-  margin-top: -2rem;
+  margin-top: -5rem;
 
 }
 
 .name {
   position: absolute;
-  /* left: 80px; */
   top: 600px;
   color: rgb(154, 41, 41);
   background-color: #118ab2;
